@@ -20,8 +20,8 @@ const firestore = {
 /* UI DATA
 -------------------------------- */
 const uiData = {
-    valentinesFirstName: 'Ashley',
-    valentinesLastName: 'Testington',
+    valentinesFirstName: 'Rashmi',
+    valentinesLastName: 'Jain',
     headerMessage: 'will you bee my Valentine? 🌹',
     resultHeaderYes: 'You said yes! 😍',
     resultHeaderNo: 'You said no 😢',
